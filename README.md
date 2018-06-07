@@ -2,7 +2,7 @@ The repository contains the Session-2 (6/06/2018) assignment codes:
 TASK 1. Create an immutable class
   Contacts.java is an immutable class
 TASK2. 
-Create a program that create two instances of Account class based on the type, and do the folloeing operations required:
+Create a program that create two instances of Account class based on the type, and do the following operations required:
 Data-> AccountNumber,
         Balance,
         Name,
